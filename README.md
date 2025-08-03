@@ -1,5 +1,7 @@
 # Avatar Designer
 
+🌟 **[Live Demo](https://custom-avatar-design.vercel.app/)** 🌟
+
 An interactive React application for creating and customizing avatars. Users can design their perfect character by choosing from various body types, faces, accessories, and color combinations.
 
 ![Avatar Designer Preview](docs/mockup.png)
